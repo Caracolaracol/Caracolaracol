@@ -39,9 +39,7 @@ ___
 <div id="badges">
   
   <a>[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://caracolaracolracolacolcololl.blogspot.com)</a>&nbsp;
-
   <a>[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12124761051)</a>&nbsp;
-
   <a>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caracol.___/)</a>&nbsp;
   
 <div>
