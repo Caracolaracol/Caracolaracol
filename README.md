@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm Agustin
-### *I'm a web developer, musician, writer, photographer and motion designer*
+### *I'm a web developer and motion designer*
 <div id="badges">
   <a href="https://www.linkedin.com/in/agust%C3%ADn-rojas-molina-b475b1165/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
