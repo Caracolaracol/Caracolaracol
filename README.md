@@ -37,7 +37,7 @@ ___
 
 ## My sites
 <div id="badges">
-<a>[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://caracolaracolracolacolcololl.blogspot.com)</a>
+  <a>[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://caracolaracolracolacolcololl.blogspot.com)</a>
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12124761051)
 
