@@ -10,10 +10,11 @@
   <a href="https://twitter.com/Caracolaracol">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <div>![](https://komarev.com/ghpvc/?username=Caracolaracol&color=dc143c) </div>
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=Caracolaracol&color=dc143c)
+
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
