@@ -17,7 +17,10 @@
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
+___
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caracolaracol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
