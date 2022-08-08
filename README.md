@@ -41,6 +41,7 @@ ___
   <a>[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://caracolaracolracolacolcololl.blogspot.com)</a>&nbsp;
   <a>[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12124761051)</a>&nbsp;
   <a>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caracol.___/)</a>&nbsp;
+  <a>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-rojas-c4r4c01/)&nbsp;
   
 <div>
 
