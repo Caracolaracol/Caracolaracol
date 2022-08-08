@@ -16,7 +16,7 @@
 ![](https://komarev.com/ghpvc/?username=Caracolaracol&color=dc143c)
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 <!--
 **Caracolaracol/Caracolaracol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
