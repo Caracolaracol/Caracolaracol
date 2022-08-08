@@ -36,8 +36,13 @@ ___
 
 
 ## My sites
+<div id="badges">
+<a>[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://caracolaracolracolacolcololl.blogspot.com)</a>
 
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://caracolaracolracolacolcololl.blogspot.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12124761051)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caracol.___/)
+<div>
 
 <!--
 **Caracolaracol/Caracolaracol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
