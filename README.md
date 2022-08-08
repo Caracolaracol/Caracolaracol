@@ -3,7 +3,6 @@
 
 
 
-<a>![](https://komarev.com/ghpvc/?username=Caracolaracol&color=dc143c)</a>
 
 
 
@@ -45,6 +44,9 @@ ___
     <a>[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5HgL3MWfEPJR5T4G54ht7A/featured)&nbsp;
   
 <div>
+
+
+<a>![](https://komarev.com/ghpvc/?username=Caracolaracol&color=dc143c)</a>
 
 <!--
 **Caracolaracol/Caracolaracol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
