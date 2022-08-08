@@ -17,9 +17,6 @@
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
-___
-
-
 
 
 <div>
