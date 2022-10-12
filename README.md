@@ -9,7 +9,7 @@
 
 
 | <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></div>&nbsp; | A | C | D | E | F | G | 
-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
