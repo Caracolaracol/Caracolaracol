@@ -11,7 +11,7 @@ ___
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40" />
 
           
 </div>
