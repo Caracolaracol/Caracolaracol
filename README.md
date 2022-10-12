@@ -9,7 +9,7 @@
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
-<div display="flex" flex-direction="row">
+<div id="badges">
           <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
