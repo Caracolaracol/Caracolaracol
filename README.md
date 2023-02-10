@@ -18,9 +18,8 @@ ___
 <img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
 </div>
 
 ___
@@ -29,7 +28,6 @@ ___
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 </div>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caracolaracol&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
