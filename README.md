@@ -11,7 +11,7 @@
 
 
 ___
-### :hammer_and_wrench: Technologies I use:
+### :hammer_and_wrench: Language and tools i'm using:
 <div>
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
