@@ -14,12 +14,16 @@ ___
 ### :hammer_and_wrench: Language and tools i'm using:
 <div>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
+
+
 </div>
 
 ___
