@@ -1,4 +1,4 @@
-<div align='center>
+
 ## Hi there 👋  I'm Agustin
 ### *I'm a web developer and motion designer*
 
@@ -37,14 +37,17 @@ ___
 </div>
 
 ___
+
+<div align="center">
+            
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caracolaracol&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-
+            </div>
 
 
 
 ### You can find me on:
-<div id="badges">
+<div id="badges" align="center">
   
   <a>[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://caracolaracolracolacolcololl.blogspot.com)</a>&nbsp;
   <a>[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12124761051)</a>&nbsp;
@@ -57,4 +60,4 @@ ___
 
 <a>![](https://komarev.com/ghpvc/?username=Caracolaracol&color=dc143c)</a>
 
- </div>
+
