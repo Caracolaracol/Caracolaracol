@@ -1,3 +1,4 @@
+<div align='center>
 ## Hi there 👋  I'm Agustin
 ### *I'm a web developer and motion designer*
 
@@ -12,7 +13,7 @@
 
 ___
 ### :hammer_and_wrench: My badges:
-<div style='align:center>
+<div align="center"> 
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -29,7 +30,7 @@ ___
 
 ___
 ### :hammer_and_wrench: Currently learning:
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
@@ -56,4 +57,4 @@ ___
 
 <a>![](https://komarev.com/ghpvc/?username=Caracolaracol&color=dc143c)</a>
 
- 
+ </div>
