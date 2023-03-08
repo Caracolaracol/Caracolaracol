@@ -13,7 +13,7 @@
 
 
 ___
-### :hammer_and_wrench: My badges:
+### :hammer_and_wrench: Tools:
 <div align="center"> 
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
