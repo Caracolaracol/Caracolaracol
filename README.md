@@ -34,7 +34,7 @@ ___
 ### :hammer_and_wrench: Currently learning:
 <div align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-NextJS-000000?logo=nextjs&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 </div>
 
