@@ -38,7 +38,7 @@ ___
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-SQL-3776AB?logo=sql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-MySQL-3776AB?logo=mysql&logoColor=white&style=for-the-badge" />
 
 </div>
 
